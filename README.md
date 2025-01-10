@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Isadora!
+
+I'm a freelance programmer who knows python, html, JS, and TS.
 
 <!--
 **Isadorasection6/Isadorasection6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
